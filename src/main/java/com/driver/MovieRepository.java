@@ -86,8 +86,5 @@ public class MovieRepository {
                 movieMap.remove(movie);
             }
         }
-
-        directorMovieMapping = null ;
-
     }
 }
